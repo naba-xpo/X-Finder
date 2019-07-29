@@ -2,12 +2,12 @@
 Made By Naba-Expo
 
 #Installation Guide
-+ git clone https://github.com/naba-xpo/X-Finder-.git     
-+ cd X-Finder-
++ git clone https://github.com/naba-xpo/X-Finder.git     
++ cd X-Finder
 + chmod +x X-Finder.sh
 
 Then,
-     go to X-Finder- folder and extract the ngrok.zip
+     go to X-Finder folder and extract the ngrok.zip
  
  Then,
       run  ./X-Finder
